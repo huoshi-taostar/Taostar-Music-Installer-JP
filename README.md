@@ -17,7 +17,6 @@ Taostar Music Installer - Japanese Version - Electron music software
 * 🌧️ 雨・海・風などの自然音を同時再生可能
 * 🎧 音量調整対応（音楽＋環境音）
 * 🌌 音楽ビジュアライザー（可視化エフェクト）
-* 💻 透明感のあるランチャーUI
 * ⚡ 軽量でスムーズな動作
 
 ---
