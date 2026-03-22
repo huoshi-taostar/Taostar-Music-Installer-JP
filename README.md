@@ -25,6 +25,14 @@ Taostar Music Installer - Japanese Version - Electron music software
 
 ---
 
+![img3](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img3.png)
+
+![img2](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img2.png)
+
+![img1](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img1.png)
+
+---
+
 ## 📦 ダウンロード
 
 👉 最新バージョンは **GitHub Releases** からダウンロードできます：
