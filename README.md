@@ -26,10 +26,13 @@ Taostar Music Installer - Japanese Version - Electron music software
 ---
 
 ![img3](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img3.png)
+**桃星音楽を起動中**
 
 ![img2](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img2.png)
+**壁紙オプション**
 
 ![img1](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img1.png)
+**設定・カスタマイズとその他の機能**
 
 ---
 
