@@ -1,4 +1,4 @@
-# Taostar-Music-Installer-JP
+l# Taostar Music JP
 Taostar Music Installer - Japanese Version - Electron music software
 
 #  桃星音楽 (Taostar Music) - 日本語版
