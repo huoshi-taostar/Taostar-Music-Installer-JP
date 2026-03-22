@@ -4,9 +4,9 @@ Taostar Music Installer - Japanese Version - Electron music software
 #  桃星音楽 (Taostar Music) - 日本語版
 
 
-**桃星音楽 - 癒し音楽・アニメ壁紙 ライブ壁紙・睡眠音アプリ
+**桃星音楽 - 癒し音楽・アニメ壁紙 ライブ壁紙・睡眠音アプリ Windows 10 / 11
 
-**Taostar Music - Relaxing Music Player with Anime Wallpapers live Wallpaper & Sleep Sounds
+**Taostar Music - Relaxing Music Player with Anime Wallpapers live Wallpaper & Sleep Sounds Windows 10/11
 
 
 公式サイトはこちら： https://huoshi-taostar.github.io/taostar-music/taostar-music-web/jp/download/
