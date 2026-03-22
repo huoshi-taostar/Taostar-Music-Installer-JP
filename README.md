@@ -1,7 +1,7 @@
 # Taostar-Music-Installer-JP
 Taostar Music Installer - Japanese Version - Electron music software
 
-# 🌸 桃星音乐 (Taostar Music) - 日本語版
+#  桃星音楽 (Taostar Music) - 日本語版
 
 公式サイトはこちら👇  
 👉 https://huoshi-taostar.github.io/taostar-music/taostar-music-web/jp/download/
@@ -75,7 +75,7 @@ Taostar Music Installer - Japanese Version - Electron music software
 
 ## ❤️ クレジット
 
-開発者：HUOSHI（火狮桃星）
+開発者：Huoshi Taostar（火狮桃星 / かしとうせい）
 
 ---
 
