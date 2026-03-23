@@ -30,6 +30,9 @@ Taostar Music Installer - Japanese Version - Electron music software
 
 ---
 
+![img4](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img4.png)
+**ローカルの歌詞と音楽のアップロードに対応 - LRC or TXT**
+
 ![img3](https://raw.githubusercontent.com/huoshi-taostar/Taostar-Music-Installer-JP/refs/heads/main/images-demo/img3.png)
 **桃星音楽を起動中**
 
